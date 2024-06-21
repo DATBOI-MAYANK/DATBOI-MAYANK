@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayank0101010" target="blank"><img src="https://img.shields.io/twitter/follow/mayank0101010?logo=twitter&style=for-the-badge" alt="mayank0101010" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
