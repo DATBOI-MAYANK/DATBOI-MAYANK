@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react , javascript & gsap**
 
-- 📫 How to reach me **mayankroy106016@gmail.com .**
+- 📫 How to reach me **mayank69439@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
