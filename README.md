@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayank0101010" target="blank"><img src="https://img.shields.io/twitter/follow/mayank0101010?logo=twitter&style=for-the-badge" alt="mayank0101010" /></a> </p>
 
-- 🌱 I’m currently learning **Three.js & Next.js**
+- 🌱 I’m currently learning **Gen. AI  & Next.js**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
