@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datboi-mayank" alt="datboi-mayank" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mayank0101010" target="blank"><img src="https://img.shields.io/twitter/follow/mayank0101010?logo=twitter&style=for-the-badge" alt="mayank0101010" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Code__Mancer" target="blank"><img src="https://img.shields.io/twitter/follow/mayank0101010?logo=twitter&style=for-the-badge" alt="mayank0101010" /></a> </p>
 
 - 🌱 I’m currently learning **LangChain  & Next.js**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@datboimayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@datboimayank" height="30" width="40" /></a>
-<a href="https://twitter.com/mayank0101010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank0101010" height="30" width="40" /></a>
+<a href="https://twitter.com/Code__Mancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Code__Mancer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@roymayank789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@roymayank789" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/datboi-mayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="datboi-mayank" height="30" width="40" /></a>
 </p>
